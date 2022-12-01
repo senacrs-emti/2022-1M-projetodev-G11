@@ -1,0 +1,1 @@
+show_debug_message("Dinheiro é sempre bom, melhor coleta-lo!")

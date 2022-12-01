@@ -1,0 +1,9 @@
+room_goto(rmPrimeiroAndar)
+
+
+
+
+
+
+
+

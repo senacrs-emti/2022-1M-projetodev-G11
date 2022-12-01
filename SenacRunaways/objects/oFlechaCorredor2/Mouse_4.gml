@@ -1,0 +1,1 @@
+room_goto(rmCorredor2)
