@@ -17,9 +17,8 @@
   ],
   "layers": [
     {"resourceType":"GMRInstanceLayer","resourceVersion":"1.0","name":"Instances","instances":[
-        {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_59168E12","properties":[],"isDnd":false,"objectId":{"name":"oTituloLore","path":"objects/oTituloLore/oTituloLore.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":0.84,"scaleY":1.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":180.0,"y":137.0,},
-        {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_690FEDD2","properties":[],"isDnd":false,"objectId":{"name":"oTextoLore","path":"objects/oTextoLore/oTextoLore.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":1.064,"scaleY":1.6666666,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":96.0,"y":242.0,},
-        {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_63AC2F48","properties":[],"isDnd":false,"objectId":{"name":"oTextoCorre","path":"objects/oTextoCorre/oTextoCorre.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":128.0,"y":348.0,},
+        {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_50E4699","properties":[],"isDnd":false,"objectId":{"name":"oComecarAventura","path":"objects/oComecarAventura/oComecarAventura.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":288.0,"y":352.0,},
+        {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_1890C93E","properties":[],"isDnd":false,"objectId":{"name":"oTextoLore","path":"objects/oTextoLore/oTextoLore.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":288.0,"y":109.0,},
       ],"visible":true,"depth":0,"userdefinedDepth":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"gridX":32,"gridY":32,"layers":[],"hierarchyFrozen":false,"effectEnabled":true,"effectType":null,"properties":[],},
     {"resourceType":"GMRBackgroundLayer","resourceVersion":"1.0","name":"Background","spriteId":{"name":"sTelaInicio","path":"sprites/sTelaInicio/sTelaInicio.yy",},"colour":4282532418,"x":0,"y":0,"htiled":false,"vtiled":false,"hspeed":0.0,"vspeed":0.0,"stretch":false,"animationFPS":30.0,"animationSpeedType":0,"userdefinedAnimFPS":false,"visible":true,"depth":100,"userdefinedDepth":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"gridX":32,"gridY":32,"layers":[],"hierarchyFrozen":false,"effectEnabled":true,"effectType":null,"properties":[],},
   ],
@@ -27,9 +26,8 @@
   "creationCodeFile": "",
   "inheritCode": false,
   "instanceCreationOrder": [
-    {"name":"inst_59168E12","path":"rooms/rmLore/rmLore.yy",},
-    {"name":"inst_690FEDD2","path":"rooms/rmLore/rmLore.yy",},
-    {"name":"inst_63AC2F48","path":"rooms/rmLore/rmLore.yy",},
+    {"name":"inst_50E4699","path":"rooms/rmLore/rmLore.yy",},
+    {"name":"inst_1890C93E","path":"rooms/rmLore/rmLore.yy",},
   ],
   "inheritCreationOrder": false,
   "sequenceId": null,
